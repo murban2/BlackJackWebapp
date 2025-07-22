@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS accounts;
+USE accounts;
+
 DROP TABLE IF EXISTS account_info;
 CREATE TABLE account_info (
 	account_id varchar(20) NOT NULL,
