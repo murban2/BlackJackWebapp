@@ -1,0 +1,62 @@
+{
+    "1": {
+        "1": "2,hearts",
+        "2": "3,hearts",
+        "3": "4,hearts",
+        "4": "5,hearts",
+        "5": "6,hearts",
+        "6": "7,hearts",
+        "7": "8,hearts",
+        "8": "9,hearts",
+        "9": "10,hearts",
+        "10": "jack,hearts",
+        "11": "queen,hearts",
+        "12": "king,hearts",
+        "13": "ace,hearts"
+    },
+    "2": {
+        "1": "2,spades",
+        "2": "3,spades",
+        "3": "4,spades",
+        "4": "5,spades",
+        "5": "6,spades",
+        "6": "7,spades",
+        "7": "8,spades",
+        "8": "9,spades",
+        "9": "10,spades",
+        "10": "jack,spades",
+        "11": "queen,spades",
+        "12": "king,spades",
+        "13": "ace,spades"
+    },
+    "3": {
+        "1": "2,diamonds",
+        "2": "3,diamonds",
+        "3": "4,diamonds",
+        "4": "5,diamonds",
+        "5": "6,diamonds",
+        "6": "7,diamonds",
+        "7": "8,diamonds",
+        "8": "9,diamonds",
+        "9": "10,diamonds",
+        "10": "jack,diamonds",
+        "11": "queen,diamonds",
+        "12": "king,diamonds",
+        "13": "ace,diamonds"
+    },
+    "4": {
+        "1": "2,clubs",
+        "2": "3,clubs",
+        "3": "4,clubs",
+        "4": "5,clubs",
+        "5": "6,clubs",
+        "6": "7,clubs",
+        "7": "8,clubs",
+        "8": "9,clubs",
+        "9": "10,clubs",
+        "10": "jack,clubs",
+        "11": "queen,clubs",
+        "12": "king,clubs",
+        "13": "ace,clubs"
+    }
+}
